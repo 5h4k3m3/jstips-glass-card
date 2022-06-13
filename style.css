@@ -15,6 +15,7 @@ body {
   justify-content: center;
 }
 
+/* ref: https://bennettfeely.com/clippy/ */
 body::before {
   content: "";
   position: absolute;
