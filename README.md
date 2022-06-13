@@ -1,0 +1,1 @@
+# jstips-glass-card
